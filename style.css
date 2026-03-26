@@ -32,3 +32,16 @@ nav.profiles {
     display: flex; 
     gap: 2rem; 
 }
+
+.profile {
+    text-decoration: none; 
+    color: #fff; 
+    transition: transform 0.2s, box-shadow 0.2s; 
+}
+
+figure {
+    margin: 0; 
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+}
