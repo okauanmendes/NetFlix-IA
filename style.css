@@ -13,3 +13,10 @@ main {
     justify-content: center; 
     min-height: 100vh; 
 }
+
+h1 {
+    font-size: 2.5rem; 
+    font-weight: bold; 
+    margin-bottom: 2rem; 
+    letter-spacing: 1px; 
+}
