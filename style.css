@@ -57,7 +57,13 @@ img {
     border: 1px transparent; 
 }
 
-
 img:hover {
     border: 1px solid #fff; 
+}
+
+figcaption {
+    font-size: 1.1rem; 
+    font-weight: 500; 
+    margin-top: 0.5rem; 
+    letter-spacing: 0.5px; 
 }
