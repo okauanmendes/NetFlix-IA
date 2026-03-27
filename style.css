@@ -47,8 +47,8 @@ figure {
 }
 
 img {
-    width: 120px; /* Largura fixa da imagem */
-    height: 120px; /* Altura fixa da imagem */
+    width: 160px; /* Largura fixa da imagem */
+    height: 160px; /* Altura fixa da imagem */
     border-radius: 8px; /* Bordas arredondadas */
     object-fit: cover; /* Mantém proporção da imagem */
     margin-bottom: 0.5rem; /* Espaço abaixo da imagem */
