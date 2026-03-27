@@ -34,12 +34,12 @@ nav.profiles {
 }
 
 ul {
-    list-style: none; 
-    padding: 0; 
-    margin: 0; 
-    display: flex; 
-    justify-content: center; 
-    gap: 1rem; 
+    list-style: none; /* Remove o ponto dos itens da lista */
+    padding: 0; /* Remove o padding padrão */
+    margin: 0; /* Remove a margem padrão */
+    display: flex; /* Usa flexbox para os itens */
+    justify-content: center; /* Centraliza os itens */
+    gap: 1rem; /* Espaço entre os itens */
 }
 
 .profile {
