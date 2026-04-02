@@ -5,3 +5,7 @@ export function getYouTubeId(url) {
     }
     return url.split('/').pop();
 }
+
+export function getRandomMatchScore() {
+    return Math.floor(Math.random() * 20 + 80);
+}
